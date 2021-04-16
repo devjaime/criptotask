@@ -7,10 +7,10 @@
     "build": "cross-env NODE_ENV=production webpack --config webpack.config.js"
   },
   "license": "MIT",
-  "author": "Arafat Shahirov <ara.shahirov@gmail.com>",
+  "author": "Jaime Hernandez",
   "repository": {
     "type": "git",
-    "url": "git+git@github.com:shahirov/crypto-currency-test-task.git"
+    "url": "git+git@github.com:devjaime/criptotask.git"
   },
   "browserslist": [
     "> 2%",
